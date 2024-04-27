@@ -1,1 +1,1 @@
-# printerqueue.github.io
+Created a Java program to manage a printer queue using either Linked Lists. Implemented functionality to add documents, remove documents, print document at front of queue, and display queue size. Additionally, wrote JUnit test cases to ensure the correctness of the Playlist class.
